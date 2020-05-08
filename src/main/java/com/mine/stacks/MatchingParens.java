@@ -1,4 +1,4 @@
-package com.mine.stacks_and_queues;
+package com.mine.stacks;
 
 import java.util.HashMap;
 import java.util.HashSet;

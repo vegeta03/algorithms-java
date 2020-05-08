@@ -1,4 +1,4 @@
-package com.mine.stacks_and_queues;
+package com.mine.stacks;
 
 public class MinimumElementStack {
     private Stack<Integer> stack = new Stack<>();
